@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves slug/index.html natively. No redirects needed.
+# Add real cross-domain or legacy-path redirects here only if one is required.
